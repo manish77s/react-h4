@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 function Student(){
-    const [data , strdata]= useState(
+    const [data]= useState(
         [
             {
                 Name : 'hero',
